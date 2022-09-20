@@ -14,8 +14,8 @@ First, you need to install Android Studio and cargo-mobile forked by tauri
 Then, run these commands:
 
 ```sh
-git clone https://github.com/nazo6/dioxus-android-sample-project
-cd dioxus-android-sample-project
+git clone https://github.com/nazo6/dioxus-android-sample
+cd dioxus-android-sample
 cargo mobile init
 
 # To run in device (you need to run emulator or connect device)
