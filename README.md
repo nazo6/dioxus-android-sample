@@ -8,8 +8,7 @@ to use an unreleased version of wry, so forked dioxus is used.
 
 ## Run
 
-First, you need to install cargo-mobile forked by tauri
-(https://github.com/tauri-apps/cargo-mobile) must be installed too. Next,
+First, you need to install cargo-mobile forked by tauri (https://github.com/tauri-apps/cargo-mobile). Next,
 install android sdk and ndk and set environment variables as cargo-mobile says.
 
 Then, run these commands:
