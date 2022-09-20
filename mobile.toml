@@ -1,0 +1,5 @@
+[app]
+name = "dioxus-android-sample"
+stylized-name = "Dioxus Android Sample"
+domain = "io.github.nazo6"
+template-pack = "wry"
